@@ -1,0 +1,9 @@
+# 프로젝트에 필요한 Python 패키지 목록
+torch
+torchvision
+opencv-python
+pillow
+numpy
+scikit-learn
+tabulate
+thop
